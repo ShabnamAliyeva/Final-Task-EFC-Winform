@@ -1,0 +1,162 @@
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Final Task - Winform.exe
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Final Task - Winform.deps.json
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Final Task - Winform.runtimeconfig.json
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Final Task - Winform.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Final Task - Winform.pdb
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ExCSS.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Fizzler.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\FontAwesome.WinForms.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\GumroadLicensing.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Kimtoo.MenuBar.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Newtonsoft.Json.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtime.osx.10.10-x64.CoreCompat.System.Drawing.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Svg.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libcairo.2.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libfontconfig.1.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libfreetype.6.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libgdiplus-lighthouse.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libgdiplus.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libgif.7.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libglib-2.0.0.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libintl.8.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libjpeg.9.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libpcre.1.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libpixman-1.0.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libpng16.16.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\osx-x64\native\libtiff.5.dylib
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.csproj.AssemblyReference.cache
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.csproj.GenerateResource.cache
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.AssemblyInfoInputs.cache
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.AssemblyInfo.cs
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.csproj.CoreCompileInputs.cache
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.csproj.CopyComplete
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\refint\Final Task - Winform.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.pdb
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.genruntimeconfig.cache
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\ref\Final Task - Winform.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Properties.Resources.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.FormSettings.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.FormCategory.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.FormGames.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Azure.Core.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Azure.Identity.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Humanizer.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Data.SqlClient.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Identity.Client.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Identity.Client.NativeInterop.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Logging.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.IdentityModel.Tokens.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.SqlServer.Server.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Core.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.WinForms.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Microsoft.Web.WebView2.Wpf.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\Mono.TextTemplating.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.Composition.AttributedModel.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.Composition.Convention.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.Composition.Hosting.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.Composition.Runtime.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.Composition.TypedParts.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.Memory.Data.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\System.Runtime.Caching.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-arm64\native\msalruntime_arm64.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-x64\native\msalruntime.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-x86\native\msalruntime_x86.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-arm64\native\WebView2Loader.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-x64\native\WebView2Loader.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win-x86\native\WebView2Loader.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\bin\Debug\net8.0-windows\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final Task - Winform.sourcelink.json
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.FormCore.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.FormDashboard.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.FormAdmin.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.Repositories.FormCoreUser.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.FormEditAdmin.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.FormEditUser.resources
+C:\Users\MagicBook\Desktop\Uniser\uniserbackend-1\Final Task - Winform\Final Task - Winform\obj\Debug\net8.0-windows\Final_Task___Winform.Forms.FormNewAccount.resources
